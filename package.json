@@ -1,0 +1,22 @@
+{
+  "name": "nodejs-promises",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node jasmine" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/knunery/nodejs-promises.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/knunery/nodejs-promises/issues"
+  },
+  "homepage": "https://github.com/knunery/nodejs-promises#readme",
+  "devDependencies": {
+    "jasmine": "^2.4.1"
+  }
+}
